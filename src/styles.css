@@ -1,4 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
-body {
+.color-container {
+    margin: 0;
+    padding: 50px;
     background-color: #252830;
+    color: #FFFFFF;
+}
+
+.title-page {
+    font-size: 150%;
+}
+
+.reset {
+    margin: 0;
+    padding: 0;
+}
+
+*:focus {
+    outline: none;
+}
+
+.rigth {
+    float: right
+}
+
+.left {
+    float: left;
 }

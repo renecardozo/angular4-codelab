@@ -1,0 +1,44 @@
+.topten-container {
+    margin: 0;
+    padding: 10px;
+}
+
+.search-input {
+    background-color: #434857;
+    border: none;
+    width:200px;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.search-icon {
+    background-color: #434857;
+    width:30px;
+    height: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-item {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #434857;
+    color: #CFD2DA;;
+}
+
+.table-header-item {
+    padding: 8px;
+    text-align: left;
+    border-top: 1px solid #434857;
+    border-bottom: 2px solid  #434857;
+}
+
+th:hover {
+    color: #1997C6;
+    cursor: pointer;
+    border-bottom: 2px solid #1997C6;
+}
