@@ -4,7 +4,8 @@ import { Component, OnInit } from '@angular/core';
     templateUrl: 'sharders.component.html',
     styleUrls: ['sharders.component.css']
 })
-export class SharderComponent implements OnInit {
+export class ShardersComponent implements OnInit {
+    message: string = 'It is Sharder component';
     constructor() {}
     ngOnInit(){}
 }
